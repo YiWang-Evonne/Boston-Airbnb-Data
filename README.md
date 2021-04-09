@@ -8,6 +8,11 @@ use boston aribnb data for several business question:
 - what features that influence the property price? 
 - What time of year has the highest rental price?
 
+# [Summary]
+-  the entire home/apt is the maximum number of entries in Boston listing, and South Boston waterfront in the neighborhood is the most expensive listing.
+-  the price increases relatively with an increase in the number of bedrooms.
+-  the largest leap in pricing is in August and September and drops between October and December
+
 # [Folder Structure]
 
  ```bash
